@@ -1,0 +1,24 @@
+[
+  {
+    "serialNumber": 1,
+    "planNumber": "R104150043",
+    "lineType": "上行、下行",
+    "homeworkLevel": "Ⅲ",
+    "homeworkTypes": "电缆过道开挖, 轨道车收卸料",
+    "scheduleDate": "2025-04-15",
+    "timePassage": "07:00:00",
+    "downLaneTime": "10:40:00",
+    "homeworkSite": "K297+000-K306+835",
+    "homeworkContent": "1.电缆过道开挖 2.轨道车收卸料",
+    "scopeInfluence": "封锁上行线297km-306km",
+    "homeworkUnit": "河南东都电气工程有限公司",
+    "homeworkTotalNumber": 25,
+    "partyMembersNumber": 3,
+    "homeworkOperations": "张明杰, 梁占占",
+    "fieldProtectionOfficer": "和佳伟, 李江涛",
+    "stationLiaisonOfficer": "许艳芬, 杨瑞朋",
+    "unitCoordination": "灵寿站工务, 行唐车站",
+    "keepEyeMan": "刘兰楷",
+    "equipmentChange": "轨道车组4辆"
+  }
+]
