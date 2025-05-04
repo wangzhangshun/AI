@@ -1,0 +1,9 @@
+chmod +x stop_api.sh
+
+
+
+curl -X POST http://localhost:8000/parse \
+  -F "file=@your_excel.xlsx" \
+  -F "ollama=http://localhost:11434" \
+  -F "model=deepseek-r1:7b" \
+  -F "api_key=your_api_key"
