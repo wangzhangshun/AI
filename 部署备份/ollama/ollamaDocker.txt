@@ -1,0 +1,74 @@
+docker-compose up -d
+
+docker exec -it ollama ollama run deepseek-r1:7b
+
+docker exec -it ollama bash
+
+ollama pull gpt-4
+ollama serve gpt-4
+
+ollama pull deepseek-r1:7b
+ollama serve deepseek-r1:7b
+
+
+docker-compose restart
+
+
+
+# CentOS/RHEL
+sudo yum install httpd-tools
+# 创建新文件（-c 参数）并添加用户
+sudo htpasswd -c /etc/nginx/.ollama-auth user1
+
+# 添加更多用户（省略 -c 参数）
+sudo htpasswd /etc/nginx/.ollama-auth admin
+
+
+sudo htpasswd -c /www/wwwroot/ollama.ymtwlkj.com/.ollama-auth user1
+sudo htpasswd //www/wwwroot/ollama.ymtwlkj.com.ollama-auth admin
+
+
+user1 123456
+
+
+curl http://localhost:11434/generate -d '{"prompt":"Hello, how are you?"}'
+
+curl -u user1:123456 https://ollama.ymtwlkj.com
+
+
+export OLLAMA_API_KEY="aa123456"
+env
+printenv OLLAMA_API_KEY
+
+
+
+一、启动与停止服务
+启动Ollama服务
+ollama serve：启动Ollama服务器，以便运行模型和处理请求。首次启动可能会生成ssh私钥文件，并提示服务端口状态。如果服务已在运行中，可以通过netstat -tulpn | grep 11434命令进行确认。
+重启Ollama服务
+对于不同操作系统，重启命令可能有所不同。例如，在Ubuntu/Debian系统上，可以使用systemctl daemon-reload和systemctl restart ollama命令；在CentOS系统上，则可能需要使用sudo yum update、sudo yum install lsof、stop ollama、lsof -i :11434、kill 和ollama serve等命令组合。
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/mqiqe/article/details/145176029
+
+
+
+   location / {
+        if ($http_authorization != "Bearer my-secret-key-123") {  # ← 这里改成你的密码
+            return 403;
+        }
+        proxy_pass http://localhost:11434;
+
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/qq_61897309/article/details/146366343
+
+
+
+
+
+

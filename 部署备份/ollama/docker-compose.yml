@@ -1,0 +1,21 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    networks:
+      - ollama_net
+    volumes:
+      - /data/ollama:/root/.ollama  # 宿主机路径:容器内路径
+
+  nginx:
+    image: nginx
+    ports:
+      - "11433:11433"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      - ollama_net
+
+networks:
+  ollama_net:
+    driver: bridge
