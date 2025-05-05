@@ -1,0 +1,11 @@
+将这三个文件保存到同一目录
+
+创建并激活Python虚拟环境
+
+安装依赖：pip install -r requirements.txt
+
+运行服务：python app.py
+
+对于生产环境，建议使用Gunicorn或uWSGI部署
+
+这些优化应该能显著提高系统的稳定性和处理能力，减少超时情况的发生。
