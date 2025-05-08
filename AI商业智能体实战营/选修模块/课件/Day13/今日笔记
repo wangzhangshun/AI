@@ -1,0 +1,24 @@
+第1知识点：关于json请求体
+第2知识点：关于精准请求（如何排除干扰请求）
+第3知识点：入口定位
+         一、关键字方法
+            (1) 方法关键字
+                encrypt :加密入口
+                decrypt ：解密入口
+                JSON.stringify:加密入口
+                JSON.parse：解密入口
+            (2) key关键字
+            (3) headers关键字 xxx()
+            (4) 拦截器关键字
+                    interceptors.request.use
+                    interceptors.response.use
+            (5) 路径关键字
+
+第4知识点：断点与断点调试
+         普通断点
+         XHR断点
+         条件断点
+         日志断点
+         脚本断点
+
+
