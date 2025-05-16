@@ -3,7 +3,7 @@ import os
 
 def open_ai(text):
     # 获取大模型以及API-KEY
-    openai_key = ""
+    openai_key = "sk-7c617e3f9945432593dea80cc5530037"
     model =  "qwen2.5-vl-32b-instruct"
     client = OpenAI(api_key=openai_key, base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
 

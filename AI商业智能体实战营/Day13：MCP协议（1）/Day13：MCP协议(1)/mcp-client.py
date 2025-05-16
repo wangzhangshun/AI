@@ -28,7 +28,7 @@ class MCPClient:
 
     async def connect_to_server(self):
         # 设置并启动 MCP 服务器进程，指定命令、脚本和环境变量
-        server_parameters = StdioServerParameters(command="python3.12", args=["./mcp_server.py"], env=None)
+        server_parameters = StdioServerParameters(command="python", args=["./mcp_server.py"], env=None)
 
         # 启动 MCP 服务并建立标准输入输出通信通道
         transport = await self.async_context_manager.enter_async_context(stdio_client(server_parameters))

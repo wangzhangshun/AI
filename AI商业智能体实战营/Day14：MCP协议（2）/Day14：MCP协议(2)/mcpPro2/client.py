@@ -28,7 +28,7 @@ class MCPClient:
     async def connect_to_server(self, server_script_path):
 
         # 构造 MCP 所需的服务器参数，包含启动命令、脚本路径参数、环境变量（为 None 表示默认）
-        server_params = StdioServerParameters(command="python3.12", args=[server_script_path], env=None)
+        server_params = StdioServerParameters(command="python", args=[server_script_path], env=None)
 
         # 启动 MCP 工具服务进程（并建立 stdio 通信）
         stdio_transport = await self.exit_stack.enter_async_context(stdio_client(server_params))
