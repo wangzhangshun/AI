@@ -9,6 +9,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 *.mp4
 *.exe
+*.ipynb_checkpoints
+*-checkpoint.ipynb
+
 
 .flattened-pom.xml
 

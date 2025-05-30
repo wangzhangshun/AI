@@ -9,8 +9,6 @@ from openpyxl import load_workbook
 from pathlib import Path
 from typing import List, Dict, Optional
 from urllib.parse import urljoin
-Warning: could not connect to a running Ollama instance
-
 
 class RemoteOllamaAdapter:
     """适配远程Ollama服务的调用"""
