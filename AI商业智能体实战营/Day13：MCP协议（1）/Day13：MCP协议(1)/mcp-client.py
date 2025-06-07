@@ -51,18 +51,18 @@ class MCPClient:
     async def process_query(self, query: str):
 
         # 测试1
-        # tool_name = "search_news"
-        # tool_args = {'wd': 'tesla'}
-        # result = await self.client_session.call_tool(tool_name, tool_args)
-        # print("结果:::", result)
+        tool_name = "search_news"
+        tool_args = {'wd': 'tesla'}
+        result = await self.client_session.call_tool(tool_name, tool_args)
+        print("结果:::", result)
 
         # 测试2
-        # tool_name = "analyze_report"
-        # tool_args = {'content': '分析下目前印巴冲突的国际影响',
-        #              'output_filename': '印巴冲突的国际影响.md'}
-        #
-        # result = await self.client_session.call_tool(tool_name, tool_args)
-        # print("结果:::", result)
+        tool_name = "analyze_report"
+        tool_args = {'content': '分析下目前印巴冲突的国际影响',
+                     'output_filename': '印巴冲突的国际影响.md'}
+
+        result = await self.client_session.call_tool(tool_name, tool_args)
+        print("结果:::", result)
 
         # 测试3
         tool_name = "send_email"
