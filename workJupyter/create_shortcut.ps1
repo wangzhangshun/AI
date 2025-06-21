@@ -30,4 +30,4 @@ try {
     Write-Host "1. Right-click desktop -> New -> Shortcut"
     Write-Host "2. Paste this command:"
     Write-Host "   'C:\Program Files\PowerShell\7\pwsh.exe' -NoExit -ExecutionPolicy Bypass -File `"$scriptPath`"" -ForegroundColor White
-}
+} 验证
