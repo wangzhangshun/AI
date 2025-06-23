@@ -32,7 +32,7 @@ streamlit hello
 #### 程序运行
 
 ```python
-streamlit run xxx.py
+streamlit run xxx.py？
 ```
 
 ### 具体操作
