@@ -35,7 +35,8 @@ function Show-Welcome {
 # 4. 获取所有conda环境
 function Get-CondaEnvironments {
     try {
-        $envList = & "$($CONFIG.CondaHome)\Scripts\conda.exe" env list --json | ConvertFrom-Json
+        # $envList = & "$($CONFIG.CondaHome)\Scripts\conda.exe" env list --json | ConvertFrom-Json
+        $envList = & "conda" env list --json | ConvertFrom-Json
         $environments = $envList.envs | Where-Object { $_ -ne $envList.root_prefix }
         return $environments | ForEach-Object {
             $envName = Split-Path $_ -Leaf
@@ -116,6 +117,7 @@ function Test-CriticalPaths {
 
     $checks = @(
         @{ Path="$($CONFIG.CondaHome)\Scripts\conda.exe"; Name="Conda" },
+#        @{ Path="conda"; Name="Conda" },
         @{ Path="$($CONFIG.CondaHome)\envs\$CondaEnv\python.exe"; Name="Python" },
         @{ Path="$($CONFIG.CondaHome)\envs\$CondaEnv\Scripts\jupyter.exe"; Name="Jupyter" }
     )
@@ -141,7 +143,8 @@ try {
     Test-CriticalPaths -CondaEnv $selectedEnv
 
     # 激活环境
-    & "$($CONFIG.CondaHome)\Scripts\conda.exe" activate $selectedEnv
+    # & "$($CONFIG.CondaHome)\Scripts\conda.exe" activate $selectedEnv
+    & "conda" activate $selectedEnv
 
     # 工作目录
     if (-not (Test-Path $CONFIG.WorkDir)) {
@@ -172,7 +175,9 @@ try {
 
     # 尝试自动修复
     try {
-        & "$($CONFIG.CondaHome)\Scripts\conda.exe" init powershell
+#        & "$($CONFIG.CondaHome)\Scripts\conda.exe" init powershell
+#        Write-Host "Conda PS profile regenerated" -ForegroundColor Cyan
+        & "conda" init powershell
         Write-Host "Conda PS profile regenerated" -ForegroundColor Cyan
     } catch {
         Write-Host "Auto-recovery failed" -ForegroundColor Red
