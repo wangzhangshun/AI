@@ -17,10 +17,10 @@ LangGraph 是**LangChain生态系统中的一个框架**，用于构建基于大
   - **与LangChain无缝集成**：可复用现有的LangChain组件，还有丰富的工具和模型支持。
   - **实现复杂逻辑**：传统的智能体开发方式在处理复杂任务时存在局限，如缺乏对外部环境的感知能力、对话历史记忆有限等。LangGraph允许创建具有循环、条件分支等复杂逻辑的工作流，能更好地应对各种复杂场景和需求，例如根据不同的输入和状态动态调整执行路径，实现多步骤的推理和决策。
 
-### 6.1 langgraph实现Agent基础操作
+### 6.1 langgraph实现Agent基础操作     公里标
 
 ```python
-from typing import Literal
+from typing import Literal 单位米
 from langchain_core.messages import HumanMessage
 from langchain_core.tools import tool
 from langchain_openai import ChatOpenAI

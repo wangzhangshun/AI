@@ -807,6 +807,14 @@ LangChain框架本身具有高度的灵活性和可扩展性，`create_xml_agent
 
 官网进行API KEY的申请：https://serpapi.com/
 
+上面注册不了，用这个网站注册：
+
+https://serper.dev/signup
+
+key:2694386d405bc7b92d36d41897accf7d27c3e2c1
+
+[Serper - Playground](https://serper.dev/playground)
+
 - 测试搜索效果
 
   ```python
