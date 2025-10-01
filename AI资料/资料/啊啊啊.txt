@@ -1,0 +1,420 @@
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6714, '肃宁北站', '1', '机221', 'D202', '机221/D202', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '560', '517', '633', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6715, '肃宁北站', '1', '机车出段线', '2049', '机车出段线/2049', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '494', '468', '543', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6716, '肃宁北站', '1', '102', 'D106', '102/D106', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '564', '553', '584', '492', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6717, '肃宁北站', '1', 'D106', 'D304', 'D106/D304', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '584', '492', '618', '367', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6718, '肃宁北站', '1', 'D304', '308', 'D304/308', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '618', '367', '630', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6719, '肃宁北站', '1', '机车入段线', '2064', '机车入段线/2064', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '494', '499', '543', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6720, '肃宁北站', '1', '2', '4', '2/4', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '48', '242', '60', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6721, '肃宁北站', '1', '6', '8', '6/8', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '72', '325', '82', '242', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6722, '肃宁北站', '1', '14', 'XZIII2', '14/XZIII2', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '101', '242', '125', '306', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6723, '肃宁北站', '1', '10', 'XZI', '10/XZI', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '88', '325', '146', '629', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6724, '肃宁北站', '1', 'SL2', 'SL12', 'SL2/SL12', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '525', '242', '642', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6725, '肃宁北站', '1', '202', '204', '202/204', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '666', '40', '675', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6726, '肃宁北站', '1', '214', '218', '214/218', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '704', '40', '720', '88', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6727, '肃宁北站', '1', '218', '216', '218/216', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '720', '88', '730', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6728, '肃宁北站', '1', '224', '226', '224/226', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '720', '40', '738', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6729, '肃宁北站', '1', '234', 'D220', '234/D220', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '757', '97', '752', '76', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6730, '肃宁北站', '1', 'D220', '238', 'D220/238', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '752', '76', '762', '62', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6731, '肃宁北站', '1', '238', '240', '238/240', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '762', '62', '782', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6732, '肃宁北站', '1', '269', '267', '269/267', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '951', '27', '987', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6733, '肃宁北站', '1', '269', 'D231', '269/D231', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '951', '27', '943', '21', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6734, '肃宁北站', '1', 'D231', '货物线', 'D231/货物线', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '943', '21', '930', '10', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6735, '肃宁北站', '1', '291', '289', '291/289', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1101', '62', '1120', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6736, '肃宁北站', '1', '235', '233', '235/233', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1226', '62', '1245', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6737, '肃宁北站', '1', '213', '211', '213/211', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1289', '62', '1298', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6738, '肃宁北站', '1', '203', '201', '203/201', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1331', '62', '1341', '40', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6739, '肃宁北站', '1', '黄骅港方向1', '黄骅港方向上行', '黄骅港方向1/黄骅港方向上行', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1556', '40', '1629', '258', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6740, '肃宁北站', '1', 'L2', '肃宁上行', 'L2/肃宁上行', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1510', '62', '1582', '274', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6741, '肃宁北站', '1', '肃宁上行', '肃宁上行1', '肃宁上行/肃宁上行1', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1582', '274', '1504', '652', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6742, '肃宁北站', '1', '王佐上行', '王佐上行1', '王佐上行/王佐上行1', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1537', '62', '1590', '227', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6743, '肃宁北站', '1', '王佐上行1', '王佐上行2', '王佐上行1/王佐上行2', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1590', '227', '1631', '35', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6744, '肃宁北站', '1', 'XS', '肃宁下行', 'XS/肃宁下行', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1364', '496', '1391', '615', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6745, '肃宁北站', '1', '肃宁下行1', '肃宁下行2', '肃宁下行1/肃宁下行2', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1492', '615', '1479', '653', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6746, '肃宁北站', '1', '黄骅港方向', '黄骅港方向下行', '黄骅港方向/黄骅港方向下行', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1558', '629', '1631', '312', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6747, '肃宁北站', '1', '1', '3', '1/3', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1572', '518', '1576', '452', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6748, '肃宁北站', '1', '3', '王佐下行', '3/王佐下行', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1576', '452', '1653', '57', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6749, '肃宁北站', '1', '206', '208', '206/208', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '695', '97', '711', '173', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6750, '肃宁北站', '1', '212', '210', '212/210', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '711', '97', '692', '173', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6751, '肃宁北站', '1', '220', '222', '220/222', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '720', '97', '725', '106', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6752, '肃宁北站', '1', '222', '228', '222/228', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '725', '106', '732', '135', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6753, '肃宁北站', '1', '228', '232', '228/232', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '732', '135', '745', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6754, '肃宁北站', '1', '234', '236', '234/236', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '757', '97', '772', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6755, '肃宁北站', '1', '236', 'XII-5', '236/XII-5', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '772', '97', '781', '116', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6756, '肃宁北站', '1', '242', 'XII-3', '242/XII-3', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '780', '62', '800', '78', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6757, '肃宁北站', '1', '287', '285', '287/285', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '860', '135', '875', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6758, '肃宁北站', '1', '283', '281', '283/281', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '871', '171', '886', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6759, '肃宁北站', '1', '259', '257', '259/257', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1036', '135', '1052', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6760, '肃宁北站', '1', '255', '253', '255/253', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1047', '171', '1062', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6761, '肃宁北站', '1', '295', '293', '295/293', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1101', '78', '1116', '62', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6762, '肃宁北站', '1', '299', '297', '299/297', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1101', '97', '1116', '79', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6763, '肃宁北站', '1', '2103', '2101', '2103/2101', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1101', '116', '1116', '97', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6764, '肃宁北站', '1', '251', '249', '251/249', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1156', '135', '1171', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6765, '肃宁北站', '1', '247', '245', '247/245', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1167', '171', '1182', '154', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6766, '肃宁北站', '1', '239', '237', '239/237', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1226', '78', '1240', '62', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6767, '肃宁北站', '1', 'SII-4', '243', 'SII-4/243', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1206', '97', '1230', '116', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6768, '肃宁北站', '1', '243', '241', '243/241', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1230', '116', '1240', '78', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6769, '肃宁北站', '1', 'SII-7', '231', 'SII-7/231', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1238', '154', '1260', '135', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6770, '肃宁北站', '1', '229', '227', '229/227', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1224', '192', '1263', '171', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6771, '肃宁北站', '1', 'D221', 'D209', 'D221/D209', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1285', '192', '1302', '127', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6772, '肃宁北站', '1', '217', '215', '217/215', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1276', '135', '1287', '78', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6773, '肃宁北站', '1', '225', '223', '225/223', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1258', '62', '1271', '78', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6774, '肃宁北站', '1', '221', '219', '221/219', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1258', '78', '1271', '62', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6775, '肃宁北站', '1', 'D209', '209', 'D209/209', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1302', '127', '1313', '78', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6776, '肃宁北站', '1', '208', 'D212', '208/D212', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '711', '173', '719', '192', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6777, '肃宁北站', '1', '230', 'XII-10', '230/XII-10', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '739', '192', '756', '211', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6778, '肃宁北站', '1', 'SII-10', '265', 'SII-10/265', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '955', '211', '975', '192', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6779, '肃宁北站', '1', 'D229', '263', 'D229/263', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '971', '219', '988', '192', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6780, '肃宁北站', '1', '261', 'D223', '261/D223', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1017', '192', '1033', '226', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6781, '肃宁北站', '1', 'D223', 'D303', 'D223/D303', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1033', '226', '1066', '289', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6782, '肃宁北站', '1', 'D303', '309', 'D303/309', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1066', '289', '1086', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6783, '肃宁北站', '1', 'D233', 'D229', 'D233/D229', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '950', '249', '971', '219', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6784, '肃宁北站', '1', '302', '304', '302/304', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '584', '325', '603', '306', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6785, '肃宁北站', '1', '310', '312', '310/312', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '637', '325', '643', '306', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6786, '肃宁北站', '1', '316', '318', '316/318', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '661', '306', '666', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6787, '肃宁北站', '1', '320', 'D204', '320/D204', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '669', '306', '677', '249', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6788, '肃宁北站', '1', '322', 'D312', '322/D312', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '680', '306', '693', '287', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6789, '肃宁北站', '1', '244', 'XII-11', '244/XII-11', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '687', '249', '692', '230', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6790, '肃宁北站', '1', '246', 'XII-13', '246/XII-13', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '697', '249', '715', '268', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6791, '肃宁北站', '1', '314', 'D310', '314/D310', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '651', '325', '671', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6792, '肃宁北站', '1', 'D310', 'D130', 'D310/D130', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '671', '439', '683', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6793, '肃宁北站', '1', '152', 'D132', '152/D132', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '683', '325', '692', '382', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6794, '肃宁北站', '1', '154', 'XI-17', '154/XI-17', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '692', '325', '705', '344', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6795, '肃宁北站', '1', '158', 'XI-16', '158/XI-16', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '701', '382', '708', '363', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6796, '肃宁北站', '1', '156', '160', '156/160', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '692', '439', '704', '420', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6797, '肃宁北站', '1', '160', 'XI-14', '160/XI-14', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '704', '420', '724', '401', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6798, '肃宁北站', '1', '195', '193', '195/193', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '837', '420', '852', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6799, '肃宁北站', '1', '191', '189', '191/189', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '848', '420', '863', '401', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6800, '肃宁北站', '1', 'SII-11', '279', 'SII-11/279', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '903', '230', '911', '249', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6801, '肃宁北站', '1', '277', '275', '277/275', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '929', '249', '940', '268', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6802, '肃宁北站', '1', '273', '271', '273/271', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '928', '268', '940', '249', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6803, '肃宁北站', '1', 'D319', '317', 'D319/317', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '908', '306', '931', '287', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6804, '肃宁北站', '1', '317', '315', '317/315', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '931', '287', '940', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6805, '肃宁北站', '1', 'D235', 'D309', 'D235/D309', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '949', '268', '963', '295', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6806, '肃宁北站', '1', 'D309', '311', 'D309/311', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '963', '295', '978', '325', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6807, '肃宁北站', '1', 'SI-17', '185', 'SI-17/185', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '903', '344', '908', '363', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6808, '肃宁北站', '1', '179', '177', '179/177', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '927', '363', '940', '382', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6809, '肃宁北站', '1', '183', '181', '183/181', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '925', '382', '940', '363', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6810, '肃宁北站', '1', 'D119', 'D311', 'D119/D311', 1, '', '2025-07-11 12:12:00', '', '2025-08-20 13:33:28', 0, '950', '363', '962', '341', 10);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6811, '肃宁北站', '1', 'D311', '313', 'D311/313', 1, '', '2025-07-11 12:12:00', '', '2025-08-20 13:33:28', 0, '962', '341', '970', '325', 10);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6812, '肃宁北站', '1', '175', '173', '175/173', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1016', '420', '1032', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6813, '肃宁北站', '1', '171', '169', '171/169', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1027', '420', '1042', '401', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6814, '肃宁北站', '1', '143', '141', '143/141', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1132', '420', '1147', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6815, '肃宁北站', '1', '139', '137', '139/137', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1142', '420', '1158', '401', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6816, '肃宁北站', '1', 'SI-14', '133', 'SI-14/133', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1225', '401', '1247', '382', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6817, '肃宁北站', '1', '125', '123', '125/123', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1261', '420', '1273', '439', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6818, '肃宁北站', '1', '123', '113', '123/113', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1273', '439', '1294', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6819, '肃宁北站', '1', '104', '106', '104/106', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '564', '610', '580', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6820, '肃宁北站', '1', '108', '110', '108/110', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '608', '553', '619', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6821, '肃宁北站', '1', '112', '114', '112/114', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '626', '610', '640', '629', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6822, '肃宁北站', '1', '124', '126', '124/126', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '654', '610', '670', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6823, '肃宁北站', '1', '116', '118', '116/118', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '624', '629', '636', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6824, '肃宁北站', '1', '120', '122', '120/122', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '657', '629', '662', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6825, '肃宁北站', '1', '128', '130', '128/130', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '687', '629', '702', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6826, '肃宁北站', '1', '132', '134', '132/134', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '691', '610', '700', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6827, '肃宁北站', '1', '136', '142', '136/142', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '690', '553', '716', '477', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6828, '肃宁北站', '1', '138', 'XI-5', '138/XI-5', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '720', '610', '739', '572', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6829, '肃宁北站', '1', '140', 'XI-8', '140/XI-8', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '719', '553', '739', '515', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6830, '肃宁北站', '1', '142', 'XI-11', '142/XI-11', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '716', '477', '729', '458', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6831, '肃宁北站', '1', '148', 'XI-9', '148/XI-9', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '728', '477', '746', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6832, '肃宁北站', '1', '146', 'XI-7', '146/XI-7', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '733', '553', '746', '534', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6833, '肃宁北站', '1', '144', 'XI-4', '144/XI-4', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '733', '610', '746', '591', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6834, '肃宁北站', '1', '150', 'XI-1', '150/XI-1', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '743', '629', '774', '648', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6835, '肃宁北站', '1', 'SI-1', '187', 'SI-1/187', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '920', '648', '940', '629', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6836, '肃宁北站', '1', '167', '165', '167/165', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1016', '477', '1032', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6837, '肃宁北站', '1', '151', '149', '151/149', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1016', '591', '1032', '610', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6838, '肃宁北站', '1', '159', '157', '159/157', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1016', '534', '1032', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6839, '肃宁北站', '1', '163', '161', '163/161', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1027', '477', '1042', '458', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6840, '肃宁北站', '1', '155', '153', '155/153', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1027', '534', '1042', '515', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6841, '肃宁北站', '1', '147', '145', '147/145', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1027', '591', '1042', '572', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6842, '肃宁北站', '1', 'SI-10', '131', 'SI-10/131', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1231', '477', '1242', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6843, '肃宁北站', '1', 'SI-8', '135', 'SI-8/135', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1216', '515', '1236', '534', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6844, '肃宁北站', '1', '135', '129', '135/129', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1236', '534', '1251', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6845, '肃宁北站', '1', 'SI-5', '127', 'SI-5/127', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1243', '572', '1261', '591', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6846, '肃宁北站', '1', 'SI-3', '121', 'SI-3/121', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1257', '610', '1273', '591', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6847, '肃宁北站', '1', '119', '115', '119/115', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1263', '496', '1275', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6848, '肃宁北站', '1', 'SI-11', '117', 'SI-11/117', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1257', '458', '1275', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6849, '肃宁北站', '1', '121', '111', '121/111', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1273', '591', '1283', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6850, '肃宁北站', '1', '105', '103', '105/103', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1305', '496', '1318', '553', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6851, '肃宁北站', '1', '109', '107', '109/107', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1308', '553', '1324', '496', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6852, '肃宁北站', '1', '306', 'D306', '306/D306', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '614', '306', '640', '173', NULL);
+INSERT INTO hhg_ims.point_connections
+(id, station_name, `type`, start_point, end_point, connection_name, tenant_id, creator, create_time, updater, update_time, deleted, start_x, start_y, end_x, end_y, distance)
+VALUES(6853, '肃宁北站', '1', '207', '205', '207/205', 1, '', '2025-07-11 12:12:00', '', '2025-07-11 12:12:00', 0, '1305', '78', '1313', '62', NULL);

@@ -13,7 +13,7 @@ from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
 from langchain_openai import ChatOpenAI
 from langchain_community.embeddings import BaichuanTextEmbeddings
 
-
+# 启动：streamlit run 项目代码.py
 # 设置Streamlit应⽤的⻚⾯标题和布局
 st.set_page_config(page_title="Rag Agent", layout="wide")
 

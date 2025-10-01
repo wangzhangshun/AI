@@ -37,7 +37,24 @@ typora软件安装
 
 建议谷歌或者火狐浏览器打开
 ⑧群昵称：请把你在本群的昵称改为真实信息，格式：姓名-城市-工作
+模型调用的request body 结构要求:
+{ 前缀
+	"stream": false,
+	"model": "deepseek32b",
+	"messages": [
+		{
+			"role": "user",
+			"content": "铁路大机捣固道岔作业安全风险"
+		}
+	],
+	"params": {
+		"stream_response": false,
+		"temperature": 0.8,
+		"max_tokens": 1512,
+		"top_k": 40
+	}
 
+}
 PS:课前准备
 1、在上课之前，请同学们务必安装学习需要的Python软件和pycharm软件
 https://note.youdao.com/s/2FfghK3Y（根据文档一步一步操作，肯定能安装成功的）
